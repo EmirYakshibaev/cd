@@ -1,0 +1,61 @@
+body {
+    background-color: #EAEFF2;
+    font-family: sans-serif;
+
+}
+
+.card {
+    width: 453px;
+    height: 681px;
+    background-color: #fff;
+    border: 1.7px solid #C5CACE;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 16px;
+}
+
+.rasm {
+    padding-top: 16px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+.tugma {
+    color: #808487;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 18px;
+    border: 1.6px solid #E9E9E9;
+    padding: 6px 14px;
+}
+
+.title {
+    color: #142833;
+    margin-left: 25px;
+
+}
+
+.text {
+    color: #959A9E;
+    font-size: 24px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.read-more{
+    color: #2870B8;
+    background-color: #DBF0FF;
+    font-size: 16px;
+    border: 2px solid #E9E9E9;
+    border-radius: 36px;
+    width:153px ;
+    height: 60px;
+    margin-left: 148px;
+
+
+}
